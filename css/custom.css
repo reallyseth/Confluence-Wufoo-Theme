@@ -9,7 +9,6 @@
 - - - - - - - - - - - - - - - - - - - - - */
 
 #logo a {
-    background-image: url('https://s3.us-west-2.amazonaws.com/filestorage-asset.wufoo.com/d5ccff24-adc0-473d-9e73-cd63c90639a7/f42e1b23-2816-4fee-8fc9-87eb1957bd93') !important;
     background-repeat: no-repeat;
     background-position: center center;
     min-height: 0;
@@ -23,19 +22,12 @@
     margin-bottom: 0 !important;
 }
 
-* html #logo a {
-    background-image: none;
-    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src="https://s3.us-west-2.amazonaws.com/filestorage-asset.wufoo.com/d5ccff24-adc0-473d-9e73-cd63c90639a7/f42e1b23-2816-4fee-8fc9-87eb1957bd93", sizingMethod="crop");
-}
-
 html {
     background-image: none;
     background-color: #df4e3a;
 }
 
 #logo {
-    background-image: url(https://www.dropbox.com/s/62skiwmtxnosrmk/confluence1000px(tagphoto) copy.png?raw=1);
-    background-color: #e5ded3;
 }
 
 #container, html.embed {
